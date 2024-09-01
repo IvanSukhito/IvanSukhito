@@ -21,25 +21,25 @@
 <a href="https://instagram.com/ivnsukhitoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivnsukhitoo" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Skills:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,wordpress" />
   </a>
 </p>
 <h3 align="left">Software and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,github,linux" />
   </a>
 </p>
 <h3 align="left">Database:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">API:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
