@@ -21,6 +21,7 @@
 <a href="https://instagram.com/ivnsukhitoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivnsukhitoo" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Skills:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,wordpress)](https://skillicons.dev)
 
 <h3 align="left">My Tools Kit:</h3>
