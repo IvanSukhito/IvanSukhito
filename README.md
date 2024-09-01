@@ -23,17 +23,24 @@
 <h3 align="left">My Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,wordpress" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,wordpress)](https://skillicons.dev)
-
-<h3 align="left">My Tools Kit:</h3>
-[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,github,linux)](https://skillicons.dev)
-
+<h3 align="left">Software and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,bitbucket,github,linux" />
+  </a>
+</p>
 <h3 align="left">Database:</h3>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  </a>
+</p>
 <h3 align="left">API:</h3>
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
