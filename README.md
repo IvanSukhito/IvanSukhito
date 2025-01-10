@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LapakTiket.com](https://lapaktiket.com/)
 
-- 🌱 I’m currently learning **Laravel,Golang,RestAPI**
+- 🌱 I’m currently learning **Laravel,RestAPI**
 
 - 👨‍💻 All of my projects are available at [ivansukhito.github.io](ivansukhito.github.io)
 
