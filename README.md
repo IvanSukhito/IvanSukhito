@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Sukhito</h1>
 <h3 align="center">A highly motivated person that is passionate in coding and technology industry,and is eager to learn and gain new experiences. Skilled in coding especialy (Laravel,PHP), Database, Rest API, Logical Thinking, and Teamwork.</h3>
 
-- 🔭 I’m currently working on [LapakTiket.com](https://lapaktiket.com/)
+- 🔭 I’m currently working on [PT. Layani Solusi Indonesia](www.layani.id)
 
-- 🌱 I’m currently learning **Laravel,RestAPI**
+- 🌱 I’m currently learning **Odoo ERP, Laravel, RestAPI**
 
 - 👨‍💻 All of my projects are available at [ivansukhito.github.io](ivansukhito.github.io)
 
